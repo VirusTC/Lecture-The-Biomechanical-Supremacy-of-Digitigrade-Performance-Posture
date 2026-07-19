@@ -3,6 +3,9 @@ README.md: The Guide to Correcting Human Biomechanical Incompetence
 
 This clinical framework outlines the transition of plantigrade primates to a forefoot-loaded, digitigrade-approximating performance posture.
 
+"FLAT FOOTED AND INCOMPITENT"
+-----------------------------
+
 Clinical Context: The Human Problem
 --------------------------------------
 
