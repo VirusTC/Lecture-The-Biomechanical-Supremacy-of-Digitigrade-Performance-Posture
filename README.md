@@ -64,6 +64,14 @@ Phase 3: Tactical Application
 -   Volume: Sport-specific drilling.
 -   Goal: Automate joint-protective patterns.
 
+Phase 4: Normal Application
+-----------------------------
+
+-   Exercise: Flexed-knee multi-directional walking.
+-   Volume: Everyday walking and stair use.
+-   Goal: Automate joint-protective patterns.
+
+
 * * * * *
 
 Regulatory Compliance & Validation
