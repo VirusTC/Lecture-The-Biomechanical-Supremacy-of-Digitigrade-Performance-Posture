@@ -19,7 +19,7 @@ Primate Structural Vulnerabilities
 
 * * * * *
 
-Feline-Inspired Digitigrade Mechanics
+Digitigrade Mechanics
 ----------------------------------------
 
 Humans cannot change their actual bone length. However, they can emulate digitigrade supremacy by shifting to a forefoot-loaded stance.
