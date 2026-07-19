@@ -1,20 +1,12 @@
-README.md: The Feline Guide to Correcting Human Biomechanical Incompetence
+README.md: The Guide to Correcting Human Biomechanical Incompetence
 --------------------------------------------------------------------------
 
 This clinical framework outlines the transition of plantigrade primates to a forefoot-loaded, digitigrade-approximating performance posture.
 
-```
-   _._     _,-'""`-._
-  (,-.`._,'(       |\`-/|  <- The Peak Biomechanical Form
-      `-.-' \ )`( , )_ \_
-            `-'-'-'--'--'
-
-```
-
 Clinical Context: The Human Problem
 --------------------------------------
 
-From a feline perspective, flat-footed (plantigrade) locomotion is an evolutionary mistake. Heel-striking and locking the knees unneccessarily sends shockwaves straight into human spines. This repository provides a training framework to stop human skeletal self-destruction.
+Flat-footed (plantigrade) locomotion is an evolutionary mistake. Heel-striking and locking the knees unneccessarily sends shockwaves straight into human spines. This repository provides a training framework to stop human skeletal self-destruction.
 
 Primate Structural Vulnerabilities
 -------------------------------------
